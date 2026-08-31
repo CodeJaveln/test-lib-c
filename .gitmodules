@@ -1,0 +1,9 @@
+[submodule "build/nob.h"]
+	path = build/nob.h
+	url = https://github.com/tsoding/nob.h.git
+[submodule "build/common"]
+	path = build/common
+	url = https://github.com/CodeJaveln/project-commons-c.git
+[submodule "include/common"]
+	path = include/common
+	url = https://github.com/CodeJaveln/project-commons-c.git
