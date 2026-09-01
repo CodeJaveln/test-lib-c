@@ -1,6 +1,5 @@
 #include "test.h"
-#include "common/common.h"
 
 int main(void) {
-    return EXIT_SUCCESS;
+    return TEST_CODE_SUCCESS;
 }

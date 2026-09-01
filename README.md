@@ -5,9 +5,9 @@ Quite simple actually.
 Every(?) c file has a
 ```c
 // In file foo.c
-#ifdef TEST_FOO
+#ifdef TESTING
 
-#endif // TEST_FOO
+#endif // TESTING
 ```
 
 Define some static functions (or a helper macro?) then a `TEST_MAIN()` that defines a main for that file
